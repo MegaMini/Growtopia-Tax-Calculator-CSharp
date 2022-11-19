@@ -20,7 +20,7 @@ namespace Growtopia_Tax_Calculator
 
         private void button1_Click(object sender, EventArgs e)
         {
-            int totalBetAmount = int.Parse(totalBet.Text) * 2;
+            int totalBetAmount = int.Parse(totalBet.Text);
             double taxPercentage = double.Parse(taxAmount.Text, System.Globalization.CultureInfo.InvariantCulture);
             var result = Math.Round(totalBetAmount - ((taxPercentage / 100) * totalBetAmount));
             var youGet = totalBetAmount - result;
