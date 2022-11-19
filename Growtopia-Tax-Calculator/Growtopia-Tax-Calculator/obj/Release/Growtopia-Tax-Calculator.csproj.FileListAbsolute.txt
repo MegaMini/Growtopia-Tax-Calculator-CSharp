@@ -1,0 +1,11 @@
+C:\Users\MegaMini\source\repos\Growtopia-Tax-Calculator\Growtopia-Tax-Calculator\bin\Release\Growtopia-Tax-Calculator.exe.config
+C:\Users\MegaMini\source\repos\Growtopia-Tax-Calculator\Growtopia-Tax-Calculator\bin\Release\Growtopia-Tax-Calculator.exe
+C:\Users\MegaMini\source\repos\Growtopia-Tax-Calculator\Growtopia-Tax-Calculator\bin\Release\Growtopia-Tax-Calculator.pdb
+C:\Users\MegaMini\source\repos\Growtopia-Tax-Calculator\Growtopia-Tax-Calculator\obj\Release\Growtopia-Tax-Calculator.csproj.AssemblyReference.cache
+C:\Users\MegaMini\source\repos\Growtopia-Tax-Calculator\Growtopia-Tax-Calculator\obj\Release\Growtopia-Tax-Calculator.csproj.SuggestedBindingRedirects.cache
+C:\Users\MegaMini\source\repos\Growtopia-Tax-Calculator\Growtopia-Tax-Calculator\obj\Release\Growtopia_Tax_Calculator.Form1.resources
+C:\Users\MegaMini\source\repos\Growtopia-Tax-Calculator\Growtopia-Tax-Calculator\obj\Release\Growtopia_Tax_Calculator.Properties.Resources.resources
+C:\Users\MegaMini\source\repos\Growtopia-Tax-Calculator\Growtopia-Tax-Calculator\obj\Release\Growtopia-Tax-Calculator.csproj.GenerateResource.cache
+C:\Users\MegaMini\source\repos\Growtopia-Tax-Calculator\Growtopia-Tax-Calculator\obj\Release\Growtopia-Tax-Calculator.csproj.CoreCompileInputs.cache
+C:\Users\MegaMini\source\repos\Growtopia-Tax-Calculator\Growtopia-Tax-Calculator\obj\Release\Growtopia-Tax-Calculator.exe
+C:\Users\MegaMini\source\repos\Growtopia-Tax-Calculator\Growtopia-Tax-Calculator\obj\Release\Growtopia-Tax-Calculator.pdb

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32825.248
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Growtopia-Tax-Calculator", "Growtopia-Tax-Calculator\Growtopia-Tax-Calculator.csproj", "{80BE81CE-B390-4CD5-B4F6-9B2CA16B2B6D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{80BE81CE-B390-4CD5-B4F6-9B2CA16B2B6D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{80BE81CE-B390-4CD5-B4F6-9B2CA16B2B6D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{80BE81CE-B390-4CD5-B4F6-9B2CA16B2B6D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{80BE81CE-B390-4CD5-B4F6-9B2CA16B2B6D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1F054297-6250-42FD-BAA9-CF3B2B2C6786}
+	EndGlobalSection
+EndGlobal
