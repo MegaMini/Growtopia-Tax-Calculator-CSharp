@@ -8,5 +8,5 @@ An app that calculates how many WL you can give to yourself and the winner by ty
 Tax yüzdesini ve oynanan betin toplam sayısını WL cinsinden yazarak kendinize ve kazanana kaç WL verebileceğinizi hesaplayan bir uygulama
 
 ## SCREENSHOTS ##
-https://i.hizliresim.com/935wlnc.png
-https://i.hizliresim.com/2hfnko4.png
+![Link 1](https://i.hizliresim.com/935wlnc.png)
+![Link 2](https://i.hizliresim.com/2hfnko4.png)
